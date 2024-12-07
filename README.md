@@ -16,4 +16,6 @@ This project demonstrates a basic self-driving car simulation built using vanill
 1. **Sensors:** The car has virtual sensors detecting distances to obstacles.  
 2. **Neural Network:** A lightweight neural network processes sensor inputs and decides steering actions.  
 
+## 🌐 Live Demo
 
+Check out the live demo on Vercel: [Self-Driving Car Demo](https://self-driving-car-no-lib.vercel.app)
